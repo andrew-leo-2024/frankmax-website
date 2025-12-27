@@ -1,9 +1,0 @@
-name = "frankmax-dark"
-license = "MIT"
-description = "A custom theme for Frankmax AI Solutions"
-homepage = "https://frankmax.digital/"
-min_version = "0.41.0"
-
-[author]
-  name = "Frankmax"
-  homepage = "https://frankmax.digital/"
