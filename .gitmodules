@@ -1,0 +1,6 @@
+[submodule "themes/frankmax-dark"]
+	path = themes/frankmax-dark
+	url = https://github.com/Andrew-Leo-2024/frankmax-dark
+[submodule "themes/frankmax-light"]
+	path = themes/frankmax-light
+	url = https://github.com/Andrew-Leo-2024/frankmax-light
