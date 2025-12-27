@@ -1,0 +1,54 @@
+baseURL = "/"
+title = "Frankmax - AI Solutions for Global Industries"
+theme = "frankmax-dark"
+
+# Language settings
+defaultContentLanguage = "en-xx"
+
+[languages]
+  [languages.en-xx]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en-xx"
+
+  [languages.zh-sg]
+    languageName = "中文"
+    weight = 2
+    contentDir = "content/zh-sg"
+
+# Menu items
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/#about"
+    weight = 2
+  [[menu.main]]
+    name = "Services"
+    url = "/#services"
+    weight = 3
+  [[menu.main]]
+    name = "Industries"
+    url = "/#industries"
+    weight = 4
+  [[menu.main]]
+    name = "Global Reach"
+    url = "/#global-reach"
+    weight = 5
+  [[menu.main]]
+    name = "Contact"
+    url = "/#contact"
+    weight = 6
+
+# Site parameters
+[params]
+  description = "Frankmax is the terraformer of all NAICS industries, modernizing businesses with AI Systems, Intelligent Agents, and Business Process Automation across 250 countries."
+  logo = "images/logo.png"
+  favicon = "images/favicon.png"
+  email = "info@frankmax.digital"
+  whatsapp = "+6583157449"
+  location = "Global Headquarters"
+  copyright = "© 2023 Frankmax. All rights reserved. Your one-stop for all AI related solutions and services."

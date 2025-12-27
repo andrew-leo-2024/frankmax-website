@@ -1,0 +1,18 @@
+# Hugo default output
+/public
+/resources
+.hugo_build.lock
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

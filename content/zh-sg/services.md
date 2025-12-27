@@ -1,0 +1,23 @@
+---
+title: "我们的服务"
+description: "我们提供全面的人工智能解决方案，旨在转变您的业务流程并推动所有运营领域的创新。"
+services:
+  - icon: "fas fa-robot"
+    title: "人工智能系统集成"
+    description: "定制的人工智能系统，旨在与您现有的基础设施无缝集成，在不中断运营的情况下增强功能。"
+  - icon: "fas fa-brain"
+    title: "智能代理"
+    description: "自主人工智能代理，从您的业务流程中学习并持续改进性能，同时适应不断变化的条件。"
+  - icon: "fas fa-cogs"
+    title: "流程自动化"
+    description: "端到端自动化解决方案，简化工作流程，减少错误，并释放人力资源用于更高价值的任务。"
+  - icon: "fas fa-chart-line"
+    title: "预测分析"
+    description: "由机器学习驱动的高级分析，用于预测趋势，识别机会，并在影响您的业务之前降低风险。"
+  - icon: "fas fa-language"
+    title: "多语言人工智能解决方案"
+    description: "打破语言障碍的人工智能系统，通过100多种语言的自然语言处理实现全球运营。"
+  - icon: "fas fa-shield-alt"
+    title: "人工智能安全与合规"
+    description: "符合全球法规和行业标准的安全人工智能实施，确保数据保护和道德人工智能使用。"
+---

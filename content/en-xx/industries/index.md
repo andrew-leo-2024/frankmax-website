@@ -1,0 +1,21 @@
+---
+title: "Industries"
+description: "Our AI solutions are tailored for diverse industries, each with unique challenges and opportunities."
+industries:
+  - name: "healthcare"
+    title: "Healthcare"
+    image: "healthcare.png"
+    description: "Revolutionizing patient care and medical operations through AI-powered diagnostics and workflow optimization."
+  - name: "manufacturing"
+    title: "Manufacturing"
+    image: "manufacturing.png"
+    description: "Enhancing production efficiency and quality control with intelligent automation and predictive maintenance."
+  - name: "finance"
+    title: "Finance"
+    image: "finance.png"
+    description: "Transforming financial services with AI-driven risk assessment, fraud detection, and automated trading systems."
+  - name: "retail"
+    title: "Retail"
+    image: "retail.png"
+    description: "Optimizing inventory management and personalizing customer experiences through AI-powered analytics."
+---

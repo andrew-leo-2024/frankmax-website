@@ -1,0 +1,23 @@
+---
+title: "Our Services"
+description: "We offer comprehensive AI solutions designed to transform your business processes and drive innovation across all operational areas."
+services:
+  - icon: "fas fa-robot"
+    title: "AI Systems Integration"
+    description: "Custom AI systems designed to integrate seamlessly with your existing infrastructure, enhancing capabilities without disrupting operations."
+  - icon: "fas fa-brain"
+    title: "Intelligent Agents"
+    description: "Autonomous AI agents that learn from your business processes and continuously improve performance while adapting to changing conditions."
+  - icon: "fas fa-cogs"
+    title: "Process Automation"
+    description: "End-to-end automation solutions that streamline workflows, reduce errors, and free up human resources for higher-value tasks."
+  - icon: "fas fa-chart-line"
+    title: "Predictive Analytics"
+    description: "Advanced analytics powered by machine learning to forecast trends, identify opportunities, and mitigate risks before they impact your business."
+  - icon: "fas fa-language"
+    title: "Multilingual AI Solutions"
+    description: "AI systems that break language barriers, enabling global operations with natural language processing in over 100 languages."
+  - icon: "fas fa-shield-alt"
+    title: "AI Security & Compliance"
+    description: "Secure AI implementations that adhere to global regulations and industry standards, ensuring data protection and ethical AI usage."
+---

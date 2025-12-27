@@ -1,0 +1,21 @@
+---
+title: "行业"
+description: "我们的人工智能解决方案针对不同行业量身定制，每个行业都有其独特的挑战和机遇。"
+industries:
+  - name: "healthcare"
+    title: "医疗保健"
+    image: "healthcare.svg"
+    description: "通过人工智能驱动的诊断和工作流程优化，革新患者护理和医疗运营。"
+  - name: "manufacturing"
+    title: "制造业"
+    image: "manufacturing.svg"
+    description: "通过智能自动化和预测性维护提高生产效率和质量控制。"
+  - name: "finance"
+    title: "金融"
+    image: "finance.svg"
+    description: "通过人工智能驱动的风险评估、欺诈检测和自动交易系统转变金融服务。"
+  - name: "retail"
+    title: "零售"
+    image: "retail.svg"
+    description: "通过人工智能驱动的分析优化库存管理并个性化客户体验。"
+---

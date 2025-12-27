@@ -1,0 +1,17 @@
+<footer class="footer">
+    <div class="footer-logo">
+        <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}" class="logo-img">
+    </div>
+    <div class="footer-links">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="footer-link">{{ .Name }}</a>
+        {{ end }}
+    </div>
+    <div class="social-links">
+        <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+    </div>
+    <p class="copyright">{{ .Site.Params.copyright }}</p>
+</footer>
