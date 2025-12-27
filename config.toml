@@ -1,6 +1,6 @@
 baseURL = "/"
 title = "Frankmax - AI Solutions for Global Industries"
-theme = "frankmax-dark"
+theme = "frankmax-light"
 
 # Language settings
 defaultContentLanguage = "en-xx"
